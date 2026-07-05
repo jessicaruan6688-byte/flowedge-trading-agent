@@ -1,0 +1,26 @@
+{
+  "chainId": 11155111,
+  "network": "sepolia",
+  "contractName": "SignalAttestation",
+  "contractAddress": "0xeD89436b22204afF66B7Fc5A5588c57f7CDd9976",
+  "deployTx": "0x706a2f46a210a329e273c2c7f1ef76819cb865351d6465a47cb90404b24f16a5",
+  "deployer": "0x8A940Ac795749F15CB64B1504afb034B4DbB8e12",
+  "deployedAt": "2026-06-06T02:21:16.958Z",
+  "rpcUrl": "https://rpc.sepolia.ethpandaops.io",
+  "explorerAddressUrl": "https://sepolia.etherscan.io/address/0xed89436b22204aff66b7fc5a5588c57f7cdd9976",
+  "explorerTxUrl": "https://sepolia.etherscan.io/tx/0x706a2f46a210a329e273c2c7f1ef76819cb865351d6465a47cb90404b24f16a5",
+  "abiVariant": "SignalAttestation.attest(bytes32,bytes32,string,uint8,uint8,string,string)",
+  "solcVersion": "0.8.35+commit.47b9dedd.Emscripten.clang",
+  "sourceVerification": {
+    "status": "skipped",
+    "reason": "ETHERSCAN_API_KEY is not configured",
+    "checkedAt": "2026-06-06T02:22:52.685Z"
+  },
+  "lastAttestationTest": {
+    "reportId": "1",
+    "txHash": "0x3b7d19db109b49e124cf311083754bb13844afd36bac561c29018c01386a0bbe",
+    "checkedAt": "2026-06-06T02:22:30.693Z",
+    "explorerTxUrl": "https://sepolia.etherscan.io/tx/0x3b7d19db109b49e124cf311083754bb13844afd36bac561c29018c01386a0bbe",
+    "status": "passed"
+  }
+}
